@@ -1,0 +1,87 @@
+{
+    "name" : "Editor",
+    "elements" : [
+        {
+            "type" : "button",
+            "id" : "btn_plusLayer",
+            "text" : "+",
+            "position" : [32, 32],
+            "size" : [32, 32]
+        },
+        {
+            "type" : "label",
+            "text" : "Channel control",
+            "position" : [0, 0],
+            "size" : [128, 32]
+        },
+        {
+            "type" : "button",
+            "id" : "btn_minusLayer",
+            "text" : "-",
+            "position" : [32, 96],
+            "size" : [32, 32]
+        },
+        {
+            "type" : "label",
+            "text" : "Section control",
+            "position" : [96, 96],
+            "size" : [96, 32]
+        },
+        {
+            "type" : "button",
+            "id" : "btn_minusSection",
+            "text" : "-",
+            "position" : [96, 128],
+            "size" : [32, 32]
+        },
+        {
+            "type" : "button",
+            "id" : "btn_plusSection",
+            "text" : "+",
+            "position" : [192, 128],
+            "size" : [32, 32]
+        },
+        {
+            "type" : "button",
+            "id" : "btn_clearNotes",
+            "text" : "Clear notes",
+            "position" : [256, 128],
+            "size" : [96, 24]
+        },
+        {
+            "type" : "button",
+            "id" : "btn_Play",
+            "text" : "Play Song",
+            "position" : [384, 128],
+            "size" : [96, 24]
+        },
+        {
+            "type" : "button",
+            "id" : "btn_Stop",
+            "text" : "Stop Song",
+            "position" : [512, 128],
+            "size" : [96, 24]
+        },
+        {
+            "type" : "button",
+            "id" : "btn_Playsection",
+            "text" : "Play section",
+            "position" : [384, 154],
+            "size" : [96, 24]
+        },
+        {
+            "type" : "button",
+            "id" : "btn_Stosection",
+            "text" : "Stop section",
+            "position" : [512, 154],
+            "size" : [96, 24]
+        },
+        {
+            "type" : "button",
+            "id" : "btn_Export",
+            "text" : "Export",
+            "position" : [416, 87],
+            "size" : [96, 24]
+        }
+    ]
+}
